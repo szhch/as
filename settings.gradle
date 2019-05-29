@@ -1,0 +1,3 @@
+include ':Student', ':infoTools'
+include ':Teacher'
+include ':appcompat_v7'

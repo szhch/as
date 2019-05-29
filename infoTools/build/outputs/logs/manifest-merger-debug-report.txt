@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:2:1-56:12
+MERGED from [:appcompat_v7] C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-27:12
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:3:5-31
+	android:versionName
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml
+		INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml
+		INJECTED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcompat_v7] C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:78
+MERGED from [:appcompat_v7] C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:78
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [:appcompat_v7] C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:11:5-67
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:16:5-67
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:12:5-79
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:11:5-79
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:14:5-81
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:24:5-81
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:15:5-65
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:13:5-65
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:16:5-71
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:21:5-71
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:17:5-75
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:19:5-75
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:17:22-72
+uses-feature#android.hardware.camera
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:20:5-60
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:29:5-31:35
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:29:5-31:35
+	android:required
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:31:9-32
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:20:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:21:19-67
+application
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:24:5-54:19
+MERGED from [:appcompat_v7] C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-20
+MERGED from [:appcompat_v7] C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-20
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:33:5-71:19
+MERGED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:33:5-71:19
+	android:label
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:28:9-40
+activity#com.pro.tmio.app.GuideActivity
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:30:9-41:20
+	android:screenOrientation
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:32:13-51
+	android:theme
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:31:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:38:27-74
+activity#com.pro.tmio.app.GlobalDetailActivity
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:44:13-65
+activity#com.pro.tmio.app.joinroom.view.JoinRoomActivity
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:49:9-52:20
+	android:screenOrientation
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\infoTools\AndroidManifest.xml:50:13-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.READ_LOGS
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:27:22-73
+activity#com.tencent.av.screen.MediaProjectionPermissionCheckActivity
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:35:13-88
+service#com.tencent.qalsdk.service.QalService
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:38:9-41:45
+	android:process
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:41:13-42
+	android:exported
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:39:13-65
+service#com.tencent.qalsdk.service.QalAssistService
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:42:9-45:45
+	android:process
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:45:13-42
+	android:exported
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:43:13-71
+receiver#com.tencent.qalsdk.QALBroadcastReceiver
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:47:9-53:20
+	android:exported
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:48:13-67
+intent-filter#action:name:com.tencent.qalsdk.broadcast.qal
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:50:13-52:29
+action#com.tencent.qalsdk.broadcast.qal
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:51:17-75
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:51:25-72
+receiver#com.tencent.qalsdk.core.NetConnInfoCenter
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:55:9-70:20
+	android:process
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:57:13-42
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:56:13-69
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:58:13-60:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:59:17-79
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:59:25-76
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:61:13-63:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:62:17-79
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:62:25-76
+intent-filter#action:name:android.intent.action.TIME_SET
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:64:13-66:29
+action#android.intent.action.TIME_SET
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:65:17-73
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:65:25-70
+intent-filter#action:name:android.intent.action.TIMEZONE_CHANGED
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:67:13-69:29
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:68:17-81
+	android:name
+		ADDED from [com.tencent.ilivesdk:ilivesdk:1.8.5] C:\Users\songzhicheng\.gradle\caches\transforms-1\files-1.1\ilivesdk-1.8.5.aar\9f8bd7a7e728455e813356d85f8ff74e\AndroidManifest.xml:68:25-78

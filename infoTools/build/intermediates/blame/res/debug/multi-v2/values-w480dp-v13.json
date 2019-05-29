@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\songzhicheng\\Desktop\\edu\\as\\infoTools\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\songzhicheng\\Desktop\\edu\\as\\appcompat_v7\\build\\intermediates\\packaged_res\\debug\\values-w480dp-v13\\values-w480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}

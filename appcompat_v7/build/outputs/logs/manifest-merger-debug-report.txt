@@ -1,0 +1,21 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:16:1-22:12
+INJECTED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:16:1-22:12
+INJECTED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:16:1-22:12
+	package
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:18:11-49
+		INJECTED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml
+		INJECTED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:17:11-57
+	xmlns:android
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:19:5-20:83
+	tools:overrideLibrary
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:20:15-81
+	android:minSdkVersion
+		ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:19:15-40
+application
+ADDED from C:\Users\songzhicheng\Desktop\edu\as\appcompat_v7\AndroidManifest.xml:21:5-19
